@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jgoldappel@gmail.com
+	name = Julius Blezinger
